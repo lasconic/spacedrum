@@ -1,0 +1,7 @@
+#local files
+android/local.properties
+#generated files
+android/assets
+android/gen
+android/bin
+android/libs
